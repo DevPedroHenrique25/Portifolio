@@ -4,7 +4,7 @@
   "name": "meu-portifolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seu-usuario.github.io/seu-repositorio",
+  "homepage": "https://github.com/DevPedroHenrique25/Portifolio",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",

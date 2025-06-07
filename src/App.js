@@ -19,7 +19,7 @@ function App() {
                 life={1}
             />
 
-            <Router>
+            <Router basename="/Portifolio">
                 <Navbar />
                 <Routes>
                     <Route path='/' element={<Home />} />

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DevPedroHenrique25/Portifolio/static/css/main.ed59e5eb.css",
+    "main.js": "/DevPedroHenrique25/Portifolio/static/js/main.8b5721ce.js",
+    "static/media/Projetos.webp": "/DevPedroHenrique25/Portifolio/static/media/Projetos.a6f34c55d196c84dcfb6.webp",
+    "static/media/logo.svg": "/DevPedroHenrique25/Portifolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/DevPedroHenrique25/Portifolio/index.html",
+    "main.ed59e5eb.css.map": "/DevPedroHenrique25/Portifolio/static/css/main.ed59e5eb.css.map",
+    "main.8b5721ce.js.map": "/DevPedroHenrique25/Portifolio/static/js/main.8b5721ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed59e5eb.css",
+    "static/js/main.8b5721ce.js"
+  ]
+}

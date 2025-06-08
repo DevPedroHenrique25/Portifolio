@@ -26,7 +26,8 @@ Este projeto é o meu site de portfólio pessoal, desenvolvido com **React.js**.
 
 ---
 
-📍 Funcionalidades:
+📍 Funcionalidades
+
 ✅ Animações suaves com React Hooks (useEffect e useState)
 
 ✅ Efeito visual com partículas (React Mouse Particles)
